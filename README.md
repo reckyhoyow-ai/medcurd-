@@ -1,7 +1,7 @@
 # 🎥 Media Showcase
 
 CLICK THIS SITE TO FIND OUT the 
-Products https://sl1nk.com/F8IY5
+Products https://tinyurl.com/Medcurd
 
 Welcome to the media showcase page.  
 This README displays both a **video** (inline or via Google Drive) and an **image** directly from Google Drive.
@@ -59,5 +59,6 @@ This README displays both a **video** (inline or via Google Drive) and an **imag
 <video width="480" controls autoplay loop muted>
   <source src="assets/demo-video.mp4" type="video/mp4">
 </video>
+
 
 
