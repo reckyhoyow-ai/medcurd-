@@ -3,14 +3,13 @@
 CLICK THIS SITE TO FIND OUT the 
 Products https://tinyurl.com/Medcurd
 
-Welcome to the media showcase page.  
-This README displays both a **video** (inline or via Google Drive) and an **image** directly from Google Drive.
 
----
+
+
 
 ## 📹 Video Preview
 
-> Watch the demo video inline or click below to open in Google Drive.
+👉if you don't Watch the video you are fuck boy👈
 
 <p align="center">
   <!-- Inline playable video (autoplay + loop + muted) -->
@@ -26,9 +25,8 @@ This README displays both a **video** (inline or via Google Drive) and an **imag
 
 ---
 
-## 🖼️ Display Image
-
-> Image hosted via Google Drive (public link).
+ 🖼️ 📸😜😡💯🤔
+👉Behind the untruth👈
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1_E-cP477rNJKdLXGppmOuoYCrwpCzZWd"
@@ -59,6 +57,7 @@ This README displays both a **video** (inline or via Google Drive) and an **imag
 <video width="480" controls autoplay loop muted>
   <source src="assets/demo-video.mp4" type="video/mp4">
 </video>
+
 
 
 
