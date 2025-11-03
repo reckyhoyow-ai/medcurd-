@@ -1,4 +1,4 @@
-# 🎥 Media Showcase — Mervin Castillo Lier
+# 🎥 Media Showcase
 
 Welcome to the media showcase page.  
 This README displays both a **video** (inline or via Google Drive) and an **image** directly from Google Drive.
@@ -56,3 +56,4 @@ This README displays both a **video** (inline or via Google Drive) and an **imag
 <video width="480" controls autoplay loop muted>
   <source src="assets/demo-video.mp4" type="video/mp4">
 </video>
+
