@@ -20,6 +20,11 @@
     video, img {
       border-radius: 15px;
       box-shadow: 0 0 10px #00ff88;
+      margin: 15px;
+    }
+    hr {
+      border: 1px dashed #00ff88;
+      margin: 40px 0;
     }
   </style>
 </head>
@@ -44,18 +49,29 @@
     </a>
   </p>
 
-  <hr style="border: 1px dashed #00ff88; margin: 40px 0;">
+  <hr>
 
   <h2>🖼️ 📸😜😡💯🤔<br>👉 Behind the untruth 👈</h2>
 
   <p align="center">
+    <!-- Image 1 -->
     <img 
       src="https://drive.google.com/uc?export=view&id=1I0bTLOFKw2qeevfKm24Ponw7lryunSau"
-      alt="Mervin Castillo Display Image"
-      width="400">
+      alt="Display Image 1"
+      width="380">
+    <!-- Image 2 -->
+    <img 
+      src="https://drive.google.com/uc?export=view&id=1IR57a508AerIE2IOCWo_-ADopGl8Yhtq"
+      alt="Display Image 2"
+      width="380">
+    <!-- Image 3 -->
+    <img 
+      src="https://drive.google.com/uc?export=view&id=1_E-cP477rNJKdLXGppmOuoYCrwpCzZWd"
+      alt="Display Image 3"
+      width="380">
   </p>
 
-  <hr style="border: 1px dashed #00ff88; margin: 40px 0;">
+  <hr>
 
   <h2>⚙️ How It Works</h2>
   <p>
@@ -67,7 +83,7 @@
 
   <p>Works on all modern browsers (Chrome, Edge, Firefox, Safari).</p>
 
-  <hr style="border: 1px dashed #00ff88; margin: 40px 0;">
+  <hr>
 
   <h2>🧠 Notes</h2>
   <p>
