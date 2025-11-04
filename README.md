@@ -23,7 +23,7 @@
     a:hover {
       text-shadow: 0 0 10px #00ff88;
     }
-    video, img {
+    img {
       border-radius: 15px;
       box-shadow: 0 0 15px #00ff88;
       margin: 20px 0;
@@ -39,40 +39,15 @@
     <a href="https://tinyurl.com/Medcurd" target="_blank">https://tinyurl.com/Medcurd</a>
   </p>
 
-  <h2>📹 Video Preview</h2>
-  <p>👉 if you don't Watch the video you are fuck boy 👈</p>
-
-  <!-- 🎥 First Video -->
-  <video width="480" controls autoplay loop muted>
-    <source src="https://drive.google.com/uc?export=download&id=1I0bTLOFKw2qeevfKm24Ponw7lryunSau" type="video/mp4">
-    Your browser does not support embedded videos.
-  </video>
-  <br>
-  <a href="https://drive.google.com/file/d/1I0bTLOFKw2qeevfKm24Ponw7lryunSau/view?usp=drivesdk" target="_blank">
-    ▶️ Open First Video in Google Drive
-  </a>
-
-  <br><br>
-
-  <!-- 🎥 Second Video -->
-  <video width="480" controls autoplay loop muted>
-    <source src="https://drive.google.com/uc?export=download&id=1IR57a508AerIE2IOCWo_-ADopGl8Yhtq" type="video/mp4">
-    Your browser does not support embedded videos.
-  </video>
-  <br>
-  <a href="https://drive.google.com/file/d/1IR57a508AerIE2IOCWo_-ADopGl8Yhtq/view?usp=drivesdk" target="_blank">
-    ▶️ Open Second Video in Google Drive
-  </a>
-
-  <hr>
-
   <h2>🖼️ 📸😜😡💯🤔</h2>
   <p>👉 Behind the untruth 👈</p>
 
   <!-- 🖼️ Display Image -->
-  <img src="https://drive.google.com/uc?export=view&id=1_E-cP477rNJKdLXGppmOuoYCrwpCzZWd"
-       alt="Mervin Castillo Display Image"
-       width="400" />
+  <p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1_E-cP477rNJKdLXGppmOuoYCrwpCzZWd"
+         alt="Behind the Untruth Image"
+         width="450" />
+  </p>
 
   <hr>
 
@@ -88,16 +63,13 @@
 
   <h2>🧠 Notes</h2>
   <p>
-    GitHub Markdown doesn’t autoplay inline videos —  
-    but this HTML works perfectly on GitHub Pages or Vercel.  
+    This version shows your image directly — perfect for GitHub Pages or static websites.  
     <br><br>
-    To host your own file:
+    To host more files, just repeat this format:
   </p>
 
   <pre>
-<video width="480" controls autoplay loop muted>
-  <source src="assets/demo-video.mp4" type="video/mp4">
-</video>
+<img src="https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID" width="400" />
   </pre>
 
 </body>
