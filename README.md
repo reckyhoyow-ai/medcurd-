@@ -1,29 +1,4 @@
-<title>🔗🔏 Media Showcase</title>
-  <style>
-    body {
-      background-color: #0f0f0f;
-      color: #00ff88;
-      font-family: 'Courier New', monospace;
-      text-align: center;
-      padding: 20px;
-    }
-    a {
-      color: #00ff88;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    video, img {
-      border-radius: 15px;
-      box-shadow: 0 0 10px #00ff88;
-      margin: 15px;
-    }
-    hr {
-      border: 1px dashed #00ff88;
-      margin: 40px 0;
-    }
-  </style>
-</head>
-<body>
+
   <h1>🔗🔏 Media link</h1>
 
   <p>CLICK THIS SITE TO FIND OUT the<br>
@@ -94,5 +69,6 @@
 
 </body>
 </html>
+
 
 
